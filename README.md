@@ -42,7 +42,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início:
 
 ## 📄 Licença
 
-Este projeto está sob a GPL-3.0 license - veja o arquivo [LICENSE.md](https://github.com/IntDadosInovacao/relatorio-algodao/blob/main/documenta%C3%A7%C3%A3o/license.md) para detalhes.
+Este projeto está sob a GPL-3.0 license - veja o arquivo [LICENSE.md](https://github.com/BrunaWust/unzip_archives/blob/main/LICENSE)para detalhes.
 
 ## 🎁 Expressões de gratidão
 
@@ -50,4 +50,4 @@ Este projeto está sob a GPL-3.0 license - veja o arquivo [LICENSE.md](https://g
 * Convide alguém da equipe para uma cerveja 🍺;
 
 ---
-⌨️ com ❤️ por [NomeDoAutor](https://github.com/NomeDoAutor) 😊
+⌨️ com ❤️ por [BrunaWust](https://github.com/BrunaWust) 😊
